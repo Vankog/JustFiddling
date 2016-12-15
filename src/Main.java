@@ -1,3 +1,5 @@
+/* Processing in IntelliJ: http://proto.ink/2016/06/03/processing-in-intellij-combining-proper-java-with-processing/
+ */
 import processing.core.PApplet;
 
 public class Main extends PApplet {
