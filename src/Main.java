@@ -14,12 +14,12 @@ public class Main extends PApplet {
     }
 
     public void setup(){
-        background(0);
         obj = new TestObject(this);
 
     }
 
     public void draw(){
+        background(0);
         obj.update();
         obj.draw();
 
