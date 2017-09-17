@@ -3,5 +3,5 @@
 	warnifnoissue = true
 	label = "Vankog/JustFiddling#"
 	logregex = "\\S+\\/\\S+#(\\d+)"
-	providerparams = "owner=Vankog;repository=JustFiddling;keyword=<None>;reffullrepo=True"
+	providerparams = "owner=Vankog;repository=JustFiddling;keyword=<None>;reffullrepo=True;showprsbydefault=True"
 	provideruuid64 = {B2C6EC0F-8742-4792-9FDC-10635D2C118B}
